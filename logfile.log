@@ -1,0 +1,2 @@
+INFO  | 2024-01-15 16:06:40 | [main] controller.Main (Main.java:10) - code is working till line no 10
+ERROR | 2024-01-15 16:09:57 | [main] controller.Main (Main.java:16) - divide by zero
